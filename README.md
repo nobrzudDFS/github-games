@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## :sparkles: Welcome to Nick's GitHub Games :sparkles:
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
